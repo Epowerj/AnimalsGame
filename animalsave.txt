@@ -1,0 +1,103 @@
+Does your animal swim underwater?
+NOTLEAF
+Does it bark?
+NOTLEAF
+Is it green and like an onion?
+NOTLEAF
+Does it have whiskers?
+NOTLEAF
+Does it live in china?
+NOTLEAF
+Is it an insect?
+NOTLEAF
+Can it fly?
+NOTLEAF
+Has it climbed the Empire State Building?
+NOTLEAF
+Can it shoot lazers?
+NOTLEAF
+Does it barf rainbows?
+NOTLEAF
+Does it eat dinosaurs?
+NOTLEAF
+Horse
+LEAF
+T-Rex
+LEAF
+Unicorn
+LEAF
+Is it made out of metal?
+NOTLEAF
+Godzilla
+LEAF
+MECHA G0DZILLA
+LEAF
+King Kong
+LEAF
+Is it a Decepticon?
+NOTLEAF
+Does it have hooves?
+NOTLEAF
+Does it breathe fire?
+NOTLEAF
+Pigeon
+LEAF
+Dragon
+LEAF
+Pegasus
+LEAF
+Starscream
+LEAF
+Does it turn into a butterfly?
+NOTLEAF
+Does it have polkadots?
+NOTLEAF
+Grasshopper
+LEAF
+Ladybug
+LEAF
+Caterpillar
+LEAF
+Panda
+LEAF
+Is it a wild animal?
+NOTLEAF
+Cat
+LEAF
+Mountain Lion
+LEAF
+Is it president of the United States?
+NOTLEAF
+Shrek
+LEAF
+Trump
+LEAF
+Dog
+LEAF
+Does it have tentacles?
+NOTLEAF
+Is it porous?
+NOTLEAF
+Is it orange?
+NOTLEAF
+Can it glide?
+NOTLEAF
+Did it not have enough lifeboats?
+NOTLEAF
+Shark
+LEAF
+Titanic
+LEAF
+Flying Fish
+LEAF
+Clownfish
+LEAF
+Sea Sponge
+LEAF
+Does it have more than 8 tentacles?
+NOTLEAF
+Octopus
+LEAF
+Squid
+LEAF
+END
